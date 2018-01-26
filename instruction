@@ -1,0 +1,12 @@
+git desktop githubatom
+1. github에서 저장소 하나 만들기
+   이름.github.io
+2. Clone a repository 클릭 후 저장소 만들었던 거 선택
+   경로는 알아서 찾기 쉽게
+3. 부트스트랩스타트 에서 긁어오기
+4. 긁어온거 저장소에 봍붙
+5. 아톰에서 file -> add project forder클릭해서 폴더 클릭
+6. github dekstop에서 commit 
+7. github로 push 
+8. 이름.github.io 들어가면 복사가 되어있음
+9. 아톰에서 개발자들이 수정 및 함
